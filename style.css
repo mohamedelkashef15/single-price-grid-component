@@ -39,12 +39,13 @@ body {
   border-top-left-radius: 8px;
 }
 
-#community .community-header h2 {
+#community .community-header h1 {
   color: var(--cyan);
 }
 
-#community .community-header h3 {
+#community .community-header h2 {
   color: var(--bright-yellow);
+  font-size: 18px;
   margin: 20px 0 10px;
 }
 
